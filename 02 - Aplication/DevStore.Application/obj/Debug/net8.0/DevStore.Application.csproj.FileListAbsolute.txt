@@ -1,0 +1,31 @@
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.csproj.AssemblyReference.cache
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.AssemblyInfoInputs.cache
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.AssemblyInfo.cs
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Application.deps.json
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Application.dll
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Application.pdb
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Domain.dll
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Domain.pdb
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.D147D865.Up2Date
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.dll
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\refint\DevStore.Application.dll
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.pdb
+C:\Users\thiag\Downloads\DevStore\02 - Aplication\DevStore.Application\obj\Debug\net8.0\ref\DevStore.Application.dll
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Application.deps.json
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Application.dll
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Application.pdb
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Domain.dll
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\bin\Debug\net8.0\DevStore.Domain.pdb
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.sourcelink.json
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.D147D865.Up2Date
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.dll
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\refint\DevStore.Application.dll
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\DevStore.Application.pdb
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\02 - Aplication\DevStore.Application\obj\Debug\net8.0\ref\DevStore.Application.dll

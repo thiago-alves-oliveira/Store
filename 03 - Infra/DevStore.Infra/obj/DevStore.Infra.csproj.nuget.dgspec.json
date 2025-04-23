@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\03 - Infra\\DevStore.Infra\\DevStore.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\02 - Aplication\\DevStore.Application\\DevStore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\02 - Aplication\\DevStore.Application\\DevStore.Application.csproj",
+        "projectName": "DevStore.Application",
+        "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\02 - Aplication\\DevStore.Application\\DevStore.Application.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\02 - Aplication\\DevStore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\04 - Domain\\DevStore.Domain\\DevStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\04 - Domain\\DevStore.Domain\\DevStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\03 - Infra\\DevStore.Infra\\DevStore.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\03 - Infra\\DevStore.Infra\\DevStore.Infra.csproj",
+        "projectName": "DevStore.Infra",
+        "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\03 - Infra\\DevStore.Infra\\DevStore.Infra.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\03 - Infra\\DevStore.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\02 - Aplication\\DevStore.Application\\DevStore.Application.csproj": {
+                "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\02 - Aplication\\DevStore.Application\\DevStore.Application.csproj"
+              },
+              "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\04 - Domain\\DevStore.Domain\\DevStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\04 - Domain\\DevStore.Domain\\DevStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\04 - Domain\\DevStore.Domain\\DevStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\04 - Domain\\DevStore.Domain\\DevStore.Domain.csproj",
+        "projectName": "DevStore.Domain",
+        "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\04 - Domain\\DevStore.Domain\\DevStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Teste Empresa\\GitHub\\Store\\04 - Domain\\DevStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

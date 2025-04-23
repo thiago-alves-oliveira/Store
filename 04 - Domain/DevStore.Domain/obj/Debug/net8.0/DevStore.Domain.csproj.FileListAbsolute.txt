@@ -1,0 +1,25 @@
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\bin\Debug\net8.0\DevStore.Domain.deps.json
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\bin\Debug\net8.0\DevStore.Domain.dll
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\bin\Debug\net8.0\DevStore.Domain.pdb
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.csproj.AssemblyReference.cache
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.AssemblyInfoInputs.cache
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.AssemblyInfo.cs
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.dll
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\obj\Debug\net8.0\refint\DevStore.Domain.dll
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.pdb
+C:\Users\thiag\Downloads\DevStore\04 - Domain\DevStore.Domain\obj\Debug\net8.0\ref\DevStore.Domain.dll
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\bin\Debug\net8.0\DevStore.Domain.deps.json
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\bin\Debug\net8.0\DevStore.Domain.dll
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\bin\Debug\net8.0\DevStore.Domain.pdb
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.sourcelink.json
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.dll
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\refint\DevStore.Domain.dll
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\DevStore.Domain.pdb
+C:\Users\thiag\OneDrive\Documentos\Teste Empresa\Store\04 - Domain\DevStore.Domain\obj\Debug\net8.0\ref\DevStore.Domain.dll
